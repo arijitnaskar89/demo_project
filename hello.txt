@@ -4,3 +4,5 @@ this is test line 3
 (dev branch here)
 
 This is some fix
+
+changes from fix 3
